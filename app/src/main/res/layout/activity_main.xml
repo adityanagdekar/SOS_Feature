@@ -24,10 +24,11 @@
         android:id="@+id/fabSos"
         android:layout_width="199dp"
         android:layout_height="180dp"
-        android:layout_marginTop="568dp"
+        android:layout_marginTop="260dp"
         android:backgroundTint="#fa1616"
         android:clickable="true"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
